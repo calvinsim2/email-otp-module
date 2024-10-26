@@ -180,3 +180,4 @@ Generated_Code/
 # because 
 
 *.dll
+appsettings.*
