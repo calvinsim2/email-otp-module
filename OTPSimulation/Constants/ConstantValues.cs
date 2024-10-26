@@ -6,7 +6,5 @@
 
         public static string EMAIL_SENDER = "admin@enterprise.com";
         public static string EMAIL_SUBJECT = "Enterprise Application - OTP";
-        public static string EMAIL_HOST = "smtp.gmail.com";
-        public static int EMAIL_PORT = 587;
     }
 }
