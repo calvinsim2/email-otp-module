@@ -22,7 +22,7 @@ This repository provides a simple module for generating and sending One-Time Pas
     git clone https://github.com/calvinsim2/email-otp-module.git
     cd email-otp-module
 
-2. **Configure Email Settings**
+2. **Configure Email Settings (appsettings.json)**
     ```bash
     {
       "smtp": {
