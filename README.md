@@ -44,7 +44,7 @@ This repository provides a simple module for generating and sending One-Time Pas
 
 
 ## Helpful Links
-- [How to Send Emails Using .NET Core, MailKit, and Google’s SMTP Server]([https://medium.com/@abhinandkr56/how-to-send-emails-using-net-core-mailkit-and-googles-smtp-server-6521827c4198)
+- [How to Send Emails Using .NET Core, MailKit, and Google’s SMTP Server](https://medium.com/@abhinandkr56/how-to-send-emails-using-net-core-mailkit-and-googles-smtp-server-6521827c4198)
 
 ## Contributors
 
