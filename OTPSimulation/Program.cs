@@ -24,6 +24,8 @@ async Task GenerateOtpApi()
     consoleUserInteraction.WriteLine(Messages.MOCK_EMAIL_INPUT);
     generateOtpDataModel.UserEmail = consoleUserInteraction.ReadUserInput();
 
+    // isValidEmailDomain is set to true in order to allow usage of personal emails for testing.
+
     //bool isValidEmailDomain = EmailChecker.IsValidEmailDomain(generateOtpDataModel.UserEmail);
     bool isValidEmailDomain = true;
 
